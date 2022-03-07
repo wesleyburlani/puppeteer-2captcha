@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-2captcha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DEBUG=puppeteer-extra,puppeteer-extra-plugin:* index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "puppeteer": "^13.5.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-recaptcha": "^3.5.0"
+  }
+}
